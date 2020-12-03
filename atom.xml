@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vicguo0724.github.io/</id>
+    <id>https://guozhenzhi.gitee.io/blog/</id>
     <title>郭小小的个人博客</title>
-    <updated>2020-12-03T09:00:43.519Z</updated>
+    <updated>2020-12-03T10:01:54.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vicguo0724.github.io/"/>
-    <link rel="self" href="https://vicguo0724.github.io/atom.xml"/>
+    <link rel="alternate" href="https://guozhenzhi.gitee.io/blog/"/>
+    <link rel="self" href="https://guozhenzhi.gitee.io/blog/atom.xml"/>
     <subtitle>个人博客</subtitle>
-    <logo>https://vicguo0724.github.io/images/avatar.png</logo>
-    <icon>https://vicguo0724.github.io/favicon.ico</icon>
+    <logo>https://guozhenzhi.gitee.io/blog/images/avatar.png</logo>
+    <icon>https://guozhenzhi.gitee.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, 郭小小的个人博客</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vicguo0724.github.io/post/hello-gridea/</id>
-        <link href="https://vicguo0724.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[我太难了.....这样一个小破站还能被劫持]]></title>
+        <id>https://guozhenzhi.gitee.io/blog/post/hello-gridea/</id>
+        <link href="https://guozhenzhi.gitee.io/blog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
