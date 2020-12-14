@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vicguo0724.github.io</id>
     <title>郭小小的个人博客</title>
-    <updated>2020-12-11T04:59:11.841Z</updated>
+    <updated>2020-12-14T07:10:52.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vicguo0724.github.io"/>
     <link rel="self" href="https://vicguo0724.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://vicguo0724.github.io/images/avatar.png</logo>
     <icon>https://vicguo0724.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 郭小小的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[英语作文素材]]></title>
+        <id>https://vicguo0724.github.io/post/ying-yu-zuo-wen-su-cai/</id>
+        <link href="https://vicguo0724.github.io/post/ying-yu-zuo-wen-su-cai/">
+        </link>
+        <updated>2020-12-14T07:05:27.000Z</updated>
+        <content type="html"><![CDATA[<p>绿水青山就是金山银山<br>
+As president Xi says“lucid waters and lush mountains are invaluable assets”.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我太难了.....这样一个小破站还能被劫持]]></title>
         <id>https://vicguo0724.github.io/post/hello-gridea/</id>
